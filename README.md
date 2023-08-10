@@ -18,7 +18,7 @@ To use this code:
    pip install pandas scikit-learn imbalanced-learn matplotlib
    ```
 
-3. Place your dataset file named `fraud_detection1.csv` in the same directory as the script.
+3. Place your dataset file named `fraud_detection.csv` in the same directory as the script.
 
 4. Run the Python script:
    ```sh
